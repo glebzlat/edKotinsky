@@ -1,6 +1,4 @@
-# Hi, I'm edKotinsky
-
-Actually my name is Gleb Zlatanov, and Edward Kotinsky is my pseudonym. I'm a factory worker and a hobby programmer. I like C++, template metaprogramming and Neovim.
+Programming is my hobby. I like C++ template metaprogramming and other strange stuff.
 
 <!---
 edKotinsky/edKotinsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
