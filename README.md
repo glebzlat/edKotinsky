@@ -1,6 +1,3 @@
-Programming is my hobby. I like C++ template metaprogramming and other strange stuff.
+# Hi, I'm Gleb
 
-<!---
-edKotinsky/edKotinsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a C developer with a little knowledge of Python and JavaScript.
